@@ -10,10 +10,27 @@ The @0xward/proofofalpha-core library acts as an automated blockchain analytics 
 
 ## Installation
 
+### Prerequisites
+- Node.js >= 18.0.0
+- npm >= 9.0.0 (or yarn >= 1.22.0 / pnpm >= 8.0.0)
+
+### Package Deployment
+Execute the targeted acquisition command matching your production environment package manager setup:
+
 ```bash
+# Using Node Package Manager (Default)
 npm install @0xward/proofofalpha-core
+
+# Using Yarn Package Manager
+yarn add @0xward/proofofalpha-core
+
+# Using PNPM Package Manager
+pnpm add @0xward/proofofalpha-core
 ```
 
+### Peer Dependencies
+For secure runtime cryptographic executions and ledger state mutations, ensure your runtime container establishes communication boundaries with the primary network bindings if processing on-chain blocks:
+- For Celo EVM networks: viem (>= 2.x) or ethers (>= 6.x) for core blockchain analytics integration.
 ---
 
 ## Core Capabilities
