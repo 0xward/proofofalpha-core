@@ -1,37 +1,17 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SamAnand/SVG-Animations/master/grid.svg" alt="0xward Core Intelligence Sync Animation" width="120" height="120" />
+</p>
+
 # @0xward/proofofalpha-core
 
-[![NPM Version](https://img.shields.io/npm/v/@0xward/proofofalpha-core)](https://www.npmjs.com/package/@0xward/proofofalpha-core)
-[![NPM Downloads](https://img.shields.io/npm/dm/@0xward/proofofalpha-core)](https://www.npmjs.com/package/@0xward/proofofalpha-core)
-[![License](https://img.shields.io/npm/l/@0xward/proofofalpha-core)](https://opensource.org/licenses/MIT)
+<p align="center">
+  <a href="https://www.npmjs.com/package/@0xward/proofofalpha-core"><img src="https://img.shields.io/npm/v/@0xward/proofofalpha-core?style=flat-square" alt="NPM Version" /></a>
+  <a href="https://www.npmjs.com/package/@0xward/proofofalpha-core"><img src="https://img.shields.io/npm/dm/@0xward/proofofalpha-core?style=flat-square" alt="NPM Downloads" /></a>
+  <a href="https://www.npmjs.com/package/@0xward/proofofalpha-core"><img src="https://img.shields.io/npm/l/@0xward/proofofalpha-core?style=flat-square" alt="License" /></a>
+</p>
 
-The @0xward/proofofalpha-core library acts as an automated blockchain analytics and routing framework for tracking on-chain wallet velocity and optimizing decentralized finance liquidity placement across the Celo ecosystem.
+Celo Alpha Intelligence Analytics Core—core computational logic for decentralized intelligence frameworks built on CELO ecosystems.
 
----
-
-## Installation
-
-### Prerequisites
-- Node.js >= 18.0.0
-- npm >= 9.0.0 (or yarn >= 1.22.0 / pnpm >= 8.0.0)
-
-### Package Deployment
-Execute the targeted acquisition command matching your production environment package manager setup:
-
-```bash
-# Using Node Package Manager (Default)
-npm install @0xward/proofofalpha-core
-
-# Using Yarn Package Manager
-yarn add @0xward/proofofalpha-core
-
-# Using PNPM Package Manager
-pnpm add @0xward/proofofalpha-core
-```
-
-### Peer Dependencies
-For secure runtime cryptographic executions and ledger state mutations, ensure your runtime container establishes communication boundaries with the primary network bindings if processing on-chain blocks:
-- For Celo EVM networks: viem (>= 2.x) or ethers (>= 6.x) for core blockchain analytics integration.
----
 
 ## Core Capabilities
 
