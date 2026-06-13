@@ -1,7 +1,7 @@
 {
   "name": "@0xward/proofofalpha-core",
-  "version": "1.0.0",
-  "description": "On-chain alpha signals processing core metrics.",
+  "version": "1.0.2",
+  "description": "Full on-chain intelligence ecosystem built on Celo featuring forensic analysis, wallet arena, and DeFi vaults.",
   "main": "index.js",
   "keywords": [
     "0xward",
@@ -12,5 +12,13 @@
   "license": "MIT",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xward/proofofalpha-core.git"
+  },
+  "bugs": {
+    "url": "https://github.com/0xward/proofofalpha-core/issues"
+  },
+  "homepage": "https://github.com/0xward/proofofalpha-core#readme"
 }
