@@ -1,6 +1,8 @@
 # @0xward/proofofalpha-core
 
-Proof of Alpha is a full on-chain intelligence ecosystem built on Celo. It combines a forensic analysis terminal powered by Groq AI, a competitive wallet battle arena, and a DeFi vault maximizing idle assets via Aave V3.
+![NPM Version](https://img.shields.io/npm/v/@0xward/proofofalpha-core) ![NPM Downloads](https://img.shields.io/npm/dm/@0xward/proofofalpha-core) ![License](https://img.shields.io/npm/l/@0xward/proofofalpha-core)
+
+Proof of Alpha is a full on-chain intelligence ecosystem built on Celo.
 
 ## Features
 - **Forensic Analytics:** Core hooks designed to interface with Groq AI telemetry for deep network tracking.
