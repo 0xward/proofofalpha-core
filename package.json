@@ -1,0 +1,16 @@
+{
+  "name": "@0xward/proofofalpha-core",
+  "version": "1.0.0",
+  "description": "On-chain alpha signals processing core metrics.",
+  "main": "index.js",
+  "keywords": [
+    "0xward",
+    "web3",
+    "utility"
+  ],
+  "author": "0xward",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
