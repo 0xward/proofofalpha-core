@@ -29,7 +29,7 @@ class ProofOfAlpha {
         }
         this.network = SUPPORTED_NETWORKS[network];
         this.networkName = network;
-        this.version = "1.0.6";
+        this.version = "1.0.7";
     }
 
     _validateAddress(address) {

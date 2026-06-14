@@ -1,6 +1,6 @@
 {
   "name": "@0xward/proofofalpha-core",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Full on-chain intelligence ecosystem built on Celo featuring forensic analysis, wallet arena, and DeFi vaults.",
   "main": "index.js",
   "keywords": [
@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/0xward/proofofalpha-core/issues"
   },
-  "homepage": "https://www.npmjs.com/package/@0xward/proofofalpha-core#readme"
+  "homepage": "https://www.npmjs.com/package/@0xward/proofofalpha-core#readme",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ]
 }
