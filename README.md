@@ -1,9 +1,13 @@
 <p align="center">
+  <img src="./assets/header-sync.svg" alt="0xward Core Intelligence Sync Animation" width="120" height="120" />
 </p>
 
 # @0xward/proofofalpha-core
 
 <p align="center">
+  <a href="https://www.npmjs.com/package/@0xward/proofofalpha-core"><img src="https://img.shields.io/npm/v/@0xward/proofofalpha-core?style=flat-square" alt="NPM Version" /></a>
+  <a href="https://www.npmjs.com/package/@0xward/proofofalpha-core"><img src="https://img.shields.io/npm/dm/@0xward/proofofalpha-core?style=flat-square" alt="NPM Downloads" /></a>
+  <a href="https://www.npmjs.com/package/@0xward/proofofalpha-core"><img src="https://img.shields.io/npm/l/@0xward/proofofalpha-core?style=flat-square" alt="License" /></a>
 </p>
 
 An automated blockchain analytics and routing framework for tracking on-chain wallet velocity and optimizing decentralized finance liquidity placement across the Celo ecosystem.
