@@ -3,7 +3,6 @@
 // Forensic wallet analysis, arena leaderboard, and DeFi vault routing
 
 const SUPPORTED_NETWORKS = {
-    celo: { rpc: Buffer.from('aHR0cHM6Ly9mb3Juby5jZWxvLm9yZw==', 'base64').toString('utf8'), chainId: 42220, currency: "CELO" },
     alfajores: { rpc: 'https://alfajores-forno.celo-testnet.org', chainId: 44787, currency: "CELO" },
 };
 
@@ -29,7 +28,7 @@ class ProofOfAlpha {
         }
         this.network = SUPPORTED_NETWORKS[network];
         this.networkName = network;
-        this.version = "1.0.7";
+        this.version = "1.1.7";
     }
 
     _validateAddress(address) {
